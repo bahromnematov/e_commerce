@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "easyshopping-ae7c1",
+          "appId": "1:351863785390:android:f50e46c4e1d0b155c26a3f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "easyshopping-ae7c1",
+          "configurations": {
+            "android": "1:351863785390:android:f50e46c4e1d0b155c26a3f",
+            "ios": "1:351863785390:ios:ec012d5890aeeb36c26a3f",
+            "macos": "1:351863785390:ios:ec012d5890aeeb36c26a3f",
+            "web": "1:351863785390:web:d6fdef25095cde13c26a3f",
+            "windows": "1:351863785390:web:1336506f1b4be606c26a3f"
+          }
+        }
+      }
+    }
+  }
+}
